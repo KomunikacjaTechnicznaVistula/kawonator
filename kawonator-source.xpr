@@ -90,26 +90,6 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>KW_docset.ditamap</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>WebHelp Responsive</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>glossary/glossary.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -140,17 +120,20 @@
                                 <field name="useAntennaHouse">
                                     <Boolean>false</Boolean>
                                 </field>
+                                <field name="useDITAScript">
+                                    <Boolean>false</Boolean>
+                                </field>
                                 <field name="baseDir">
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>C:\git\kawonator-docs</String>
+                                    <String>C:\git\kawonator-source\docs\topics</String>
                                 </field>
                                 <field name="tempDir">
                                     <String>C:\git\DITA-output-temp</String>
                                 </field>
                                 <field name="transtype">
-                                    <String>webhelp-responsive</String>
+                                    <String>pdf2</String>
                                 </field>
                                 <field name="filters">
                                     <ditavalFilters>
@@ -184,17 +167,7 @@
                                     <null/>
                                 </field>
                                 <field name="publishingTemplateDataPO">
-                                    <publishingTemplate>
-                                        <field name="templateRoot">
-                                            <String>${configured.ditaot.dir}/plugins/com.oxygenxml.webhelp.responsive/templates/ashes</String>
-                                        </field>
-                                        <field name="descriptorRelativePath">
-                                            <String>ashes-tiles.opt</String>
-                                        </field>
-                                        <field name="isCustomTemplate">
-                                            <Boolean>false</Boolean>
-                                        </field>
-                                    </publishingTemplate>
+                                    <null/>
                                 </field>
                                 <field name="oxygenFeedbackPO">
                                     <null/>
@@ -209,68 +182,7 @@
                                     <String></String>
                                 </field>
                                 <field name="ditaParams">
-                                    <list>
-                                        <ditaParameter>
-                                            <field name="name">
-                                                <String>force-unique</String>
-                                            </field>
-                                            <field name="description">
-                                                <null/>
-                                            </field>
-                                            <field name="value">
-                                                <String>true</String>
-                                            </field>
-                                            <field name="defaultValue">
-                                                <String>false</String>
-                                            </field>
-                                            <field name="type">
-                                                <Integer>4</Integer>
-                                            </field>
-                                            <field name="possibleValues">
-                                                <String-array>
-                                                    <String>true</String>
-                                                    <String>false</String>
-                                                    <null/>
-                                                </String-array>
-                                            </field>
-                                            <field name="possibleValuesDescriptions">
-                                                <String-array>
-                                                    <String></String>
-                                                    <String></String>
-                                                </String-array>
-                                            </field>
-                                        </ditaParameter>
-                                        <ditaParameter>
-                                            <field name="name">
-                                                <String>args.xhtml.classattr</String>
-                                            </field>
-                                            <field name="description">
-                                                <null/>
-                                            </field>
-                                            <field name="value">
-                                                <String>yes</String>
-                                            </field>
-                                            <field name="defaultValue">
-                                                <String>yes</String>
-                                            </field>
-                                            <field name="type">
-                                                <Integer>4</Integer>
-                                            </field>
-                                            <field name="possibleValues">
-                                                <String-array>
-                                                    <String>yes</String>
-                                                    <String>no</String>
-                                                    <null/>
-                                                </String-array>
-                                            </field>
-                                            <field name="possibleValuesDescriptions">
-                                                <String-array>
-                                                    <String></String>
-                                                    <String></String>
-                                                </String-array>
-                                            </field>
-                                        </ditaParameter>
-                                    </list>
+                                    <list/>
                                 </field>
                                 <field name="jvmArgs">
                                     <String></String>
@@ -297,7 +209,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>WebHelp Responsive</String>
+                                    <String>PDF2</String>
                                 </field>
                                 <field name="baseURL">
                                     <null/>
@@ -382,17 +294,20 @@
                                 <field name="useAntennaHouse">
                                     <Boolean>false</Boolean>
                                 </field>
+                                <field name="useDITAScript">
+                                    <Boolean>false</Boolean>
+                                </field>
                                 <field name="baseDir">
                                     <String>${cfd}</String>
                                 </field>
                                 <field name="outputDir">
-                                    <String>C:\git\kawonator-docs\topics\</String>
+                                    <String>C:\git\kawonator-source\docs</String>
                                 </field>
                                 <field name="tempDir">
                                     <String>C:\git\DITA-output-temp</String>
                                 </field>
                                 <field name="transtype">
-                                    <String>pdf2</String>
+                                    <String>webhelp-responsive</String>
                                 </field>
                                 <field name="filters">
                                     <ditavalFilters>
@@ -426,7 +341,17 @@
                                     <null/>
                                 </field>
                                 <field name="publishingTemplateDataPO">
-                                    <null/>
+                                    <publishingTemplate>
+                                        <field name="templateRoot">
+                                            <String>${configured.ditaot.dir}/plugins/com.oxygenxml.webhelp.responsive/templates/ashes</String>
+                                        </field>
+                                        <field name="descriptorRelativePath">
+                                            <String>ashes-tiles.opt</String>
+                                        </field>
+                                        <field name="isCustomTemplate">
+                                            <Boolean>false</Boolean>
+                                        </field>
+                                    </publishingTemplate>
                                 </field>
                                 <field name="oxygenFeedbackPO">
                                     <null/>
@@ -441,7 +366,98 @@
                                     <String></String>
                                 </field>
                                 <field name="ditaParams">
-                                    <list/>
+                                    <list>
+                                        <ditaParameter>
+                                            <field name="name">
+                                                <String>args.xhtml.classattr</String>
+                                            </field>
+                                            <field name="description">
+                                                <null/>
+                                            </field>
+                                            <field name="value">
+                                                <String>yes</String>
+                                            </field>
+                                            <field name="defaultValue">
+                                                <String>yes</String>
+                                            </field>
+                                            <field name="type">
+                                                <Integer>4</Integer>
+                                            </field>
+                                            <field name="possibleValues">
+                                                <String-array>
+                                                    <String>yes</String>
+                                                    <String>no</String>
+                                                    <null/>
+                                                </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <String-array>
+                                                    <String></String>
+                                                    <String></String>
+                                                </String-array>
+                                            </field>
+                                        </ditaParameter>
+                                        <ditaParameter>
+                                            <field name="name">
+                                                <String>clean.output</String>
+                                            </field>
+                                            <field name="description">
+                                                <null/>
+                                            </field>
+                                            <field name="value">
+                                                <String>yes</String>
+                                            </field>
+                                            <field name="defaultValue">
+                                                <String>no</String>
+                                            </field>
+                                            <field name="type">
+                                                <Integer>4</Integer>
+                                            </field>
+                                            <field name="possibleValues">
+                                                <String-array>
+                                                    <String>yes</String>
+                                                    <String>no</String>
+                                                    <null/>
+                                                </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <String-array>
+                                                    <String></String>
+                                                    <String></String>
+                                                </String-array>
+                                            </field>
+                                        </ditaParameter>
+                                        <ditaParameter>
+                                            <field name="name">
+                                                <String>force-unique</String>
+                                            </field>
+                                            <field name="description">
+                                                <null/>
+                                            </field>
+                                            <field name="value">
+                                                <String>true</String>
+                                            </field>
+                                            <field name="defaultValue">
+                                                <String>false</String>
+                                            </field>
+                                            <field name="type">
+                                                <Integer>4</Integer>
+                                            </field>
+                                            <field name="possibleValues">
+                                                <String-array>
+                                                    <String>true</String>
+                                                    <String>false</String>
+                                                    <null/>
+                                                </String-array>
+                                            </field>
+                                            <field name="possibleValuesDescriptions">
+                                                <String-array>
+                                                    <String></String>
+                                                    <String></String>
+                                                </String-array>
+                                            </field>
+                                        </ditaParameter>
+                                    </list>
                                 </field>
                                 <field name="jvmArgs">
                                     <String></String>
@@ -468,7 +484,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>PDF2</String>
+                                    <String>WebHelp Responsive</String>
                                 </field>
                                 <field name="baseURL">
                                     <null/>
