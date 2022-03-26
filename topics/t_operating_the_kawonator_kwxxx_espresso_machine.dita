@@ -73,13 +73,14 @@
                             press down lightly with the tamping end of the measuring spoon.</cmd>
                     </substep>
                     <substep>
-                        <cmd>Clean any excess coffee from the rim of the Portafilter to ensure a
-                            proper fit into the machine.</cmd>
+                        <cmd>Clean any excess coffee from the rim of the <term
+                                keyref="g_portafilter"/> to ensure a proper fit into the
+                            machine.</cmd>
                     </substep>
                 </substeps>
             </step>
             <step>
-                <cmd>Attaching the Portafilter</cmd>
+                <cmd>Attaching the <term keyref="g_portafilter"/></cmd>
                 <substeps id="substeps_dhl_lhy_zsb">
                     <substep>
                         <cmd>Place the filled <term keyref="g_portafilter"/> underneath the <term
