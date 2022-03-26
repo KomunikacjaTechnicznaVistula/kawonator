@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title><keyword keyref="product1"/> Guide</title>
+    <title>KWXXX PDF guide core structure</title>
     <keydef keys="company">
         <topicmeta>
             <keywords>
@@ -23,4 +23,21 @@
             </keywords>
         </topicmeta>
     </keydef>
+
+    <topicref href="topics/c_introduction.dita" audience="consumer">
+        <topicref href="topics/t_operating.dita"/>
+        <topicref href="topics/r_recipes.dita"/>
+    </topicref>
+
+    <topicref href="topics/c_introduction.dita" audience="maintenance">
+        <topicgroup>
+            <topicref href="topics/t_assembling.dita"/>
+            <topicref href="topics/t_cleaning_steam.dita"/>
+            <topicref href="topics/t_cleaning_filter.dita"/>
+            <topicref href="topics/t_operating.dita"/>
+        </topicgroup>
+    </topicref>
+
+    <topicref href="glossary/m_glossary.ditamap" format="ditamap" toc="no"/>
+
 </map>
