@@ -5,9 +5,11 @@
     <shortdesc/>
     <taskbody>
         <context>
-            <p product="product1">The filter holder in the KW100 must be cleaned every 50 servings. </p>
-            <p product="product2">The 1-cup filter holder in the KW200 must be cleaned every 50
-                servings, while the 2-cup filter holder must be cleaned every 40 servings.</p>
+            <p product="product1">The filter holder in the <keyword>KW100</keyword> must be cleaned
+                every 50 servings. </p>
+            <p product="product2">The 1-cup filter holder in the <keyword>KW200</keyword> must be
+                cleaned every 50 servings, while the 2-cup filter holder must be cleaned every 40
+                servings.</p>
         </context>
         <steps>
             <step>
@@ -26,15 +28,16 @@
             </step>
             <step product="product2">
                 <cmd>Use a small brush to clean the interior of each of the spigots of the <term
-                        keyref="g_portafilter"/>.</cmd>
+                    keyref="g_portafilter"/>.</cmd>
             </step>
             <step>
                 <cmd>Wipe the filter holder and re-assemble the <term keyref="g_portafilter"/>. </cmd>
             </step>
             <step>
-                <cmd>Run water through the <keyword>KW100</keyword><keyword>KW200</keyword> with an
-                    empty <term keyref="g_portafilter"/> connected to the brew head (with the <term
-                        keyref="g_filter_holder"/>, but without any ground coffee) to rinse out any
+                <cmd>Run water through the <keyword product="product1" keyref="product1"/><keyword
+                    product="product2" keyref="product2"/> with an empty <term
+                        keyref="g_portafilter"/> connected to the brew head (with the <term
+                            keyref="g_filter_holder"/>, but without any ground coffee) to rinse out any
                     residual filter-cleaning fluid.</cmd>
             </step>
         </steps>
