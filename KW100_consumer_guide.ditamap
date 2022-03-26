@@ -17,6 +17,6 @@
             </keywords>
         </topicmeta>
     </keydef>
-    <topicref href="ditaval/f_product1_consumer.ditaval" format="ditaval"/>
+    <topicref href="ditaval/f_product1_consumer.ditaval" format="ditaval" navtitle="ditaval"/>
     <topicref href="m_PDF_core.ditamap" format="ditamap"/>
 </map>

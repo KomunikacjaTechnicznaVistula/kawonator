@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_cleaning_the_filter_holder_and_the_portafilter">
+    <title>CLEANING THE <term keyref="g_filter_holder"/> AND THE <term keyref="g_portafilter"/></title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p product="product1">The filter holder in the <keyword product="product1" keyref="1.product"
+                >KW100</keyword> must be cleaned every 50 servings. </p>
+            <p product="product2">The 1-cup filter holder in the <keyword product="product2" keyref="2.product">KW200</keyword> must be cleaned every 50
+                servings, while the 2-cup filter holder must be cleaned every 40 servings.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Remove the <term keyref="g_portafilter"/> from the <term keyref="g_brew_head"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Dismantle the <term keyref="g_portafilter"/> to separate the filter holder.</cmd>
+            </step>
+            <step>
+                <cmd>Soak the <term keyref="g_filter_holder"/> in hot water with a few drops of Kawonator-compatible
+                    filter cleaning fluid .</cmd>
+            </step>
+            <step>
+                <cmd>Use a damp cloth to wipe the exterior and interior of the <term
+                    keyref="g_portafilter"/> and the <term keyref="g_brew_head"/>.</cmd>
+            </step>
+            <step product="product2">
+                <cmd>Use a small brush to clean the interior of each of the spigots of the <term
+                    keyref="g_portafilter"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Wipe the filter holder and re-assemble the <term keyref="g_portafilter"/>. </cmd>
+            </step>
+            <step>
+                <cmd>Run water through the <keyword product="product1" keyref="1.product"
+                    >KW100</keyword><keyword product="product2" keyref="2.product">KW200</keyword> with an empty
+                    <term keyref="g_portafilter"/> connected to the brew head (with the <term
+                        keyref="g_filter_holder"/>, but without any ground coffee) to rinse out any
+                    residual filter-cleaning fluid.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

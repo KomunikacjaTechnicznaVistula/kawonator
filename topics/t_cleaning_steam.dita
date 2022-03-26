@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_cleaning_the_steam_wand_and_frothing_attachment">
+    <title>CLEANING THE <term keyref="g_steam_wand"/> AND <term keyref="g_frothing_att"/></title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>The <term keyref="g_steam_wand"/> and <term keyref="g_frothing_att"/> should always
+                be cleaned after frothing milk.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Remove the <term keyref="g_frothing_att"/> and rinse in warm tap water.</cmd>
+            </step>
+            <step>
+                <cmd>Use a Kawonator-compatible cleaning tool to clean the two fine steam holes on
+                    either end of the <term keyref="g_frothing_att"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Wipe the <term keyref="g_steam_wand"/> with a damp cloth, then with the <term
+                        keyref="g_steam_wand"/> directed back into the drip tray, briefly set the
+                    Selector Control to the ‘Steam’ setting (no less than 5 seconds).</cmd>
+            </step>
+            <step>
+                <cmd>Set the Selector Control to the ‘Standby’ position. Press the ‘ON/OFF’ button
+                    to ‘OFF’, switch off at the power outlet, unplug the power cord and allow the
+                    machine to cool before starting it again.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
