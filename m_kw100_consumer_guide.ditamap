@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title><keyword/> Consumer Guide</title>
+    <topicref href="ditaval/f_product1_consumer.ditaval" format="ditaval"/>
+    <topicref href="m_kw100_consumer_guide.ditamap" format="ditamap"/>
+</map>
