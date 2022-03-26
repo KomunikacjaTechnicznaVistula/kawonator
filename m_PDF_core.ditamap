@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title><keyword keyref="product1"/> espresso machines</title>
+    <title>KWXXX PDF guide core structure</title>
+    <keydef keys="company">
+        <topicmeta>
+            <keywords>
+                <keyword>Kawomator</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
     <keydef keys="product1">
         <topicmeta>
             <keywords>
@@ -9,18 +16,28 @@
             </keywords>
         </topicmeta>
     </keydef>
-    <keydef keys="company">
+    <keydef keys="product2">
         <topicmeta>
             <keywords>
-                <keyword>Kawonator</keyword>
+                <keyword>KW200</keyword>
             </keywords>
         </topicmeta>
     </keydef>
-    <keydef keys="company">
-        <topicmeta>
-            <keywords>
-                <keyword>Kawonator</keyword>
-            </keywords>
-        </topicmeta>
-    </keydef>
+
+    <topicref href="topics/c_introduction.dita" audience="consumer">
+        <topicref href="topics/t_operating.dita"/>
+        <topicref href="topics/r_recipes.dita"/>
+    </topicref>
+
+    <topicref href="topics/c_introduction.dita" audience="maintenance">
+        <topicgroup>
+            <topicref href="topics/t_assembling.dita"/>
+            <topicref href="topics/t_cleaning_steam.dita"/>
+            <topicref href="topics/t_cleaning_filter.dita"/>
+            <topicref href="topics/t_operating.dita"/>
+        </topicgroup>
+    </topicref>
+
+    <topicref href="glossary/m_glossary.ditamap" format="ditamap" toc="no"/>
+
 </map>
