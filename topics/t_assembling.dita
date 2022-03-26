@@ -8,7 +8,9 @@
             <p>Assembling your Kawonator <keyword keyref="product"/> espresso machine Your <keyword
                     keyref="product"/> will have the Drip Tray and Water Tank in place when you
                 unpack it from the box. Other elements will be provided in foam packaging and
-                require manual assembly. </p>
+                require manual assembly. Before first use we strongly recommend to perform two
+                complete water brewing operation (without ground coffee), to ensure that all
+                internal piping has been preheated.</p>
         </context>
         <steps>
             <step>
@@ -34,11 +36,6 @@
                     machine and into position above the Storage Tray. Ensure the Water Tank aligns
                     flush with the sides of the machine.</cmd>
             </step>
-            <stepsection>
-                <p>Before first use we strongly recommend to perform two complete water brewing
-                    operation (without ground coffee), to ensure that all internal piping has been
-                    preheated.</p>
-            </stepsection>
         </steps>
     </taskbody>
 </task>
