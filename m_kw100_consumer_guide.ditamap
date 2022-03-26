@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>KW100 Consumer Guide</title>
+    <title><keyword keyref="product"/> Consumer Guide</title>
+    <keydef keys="product">
+        <topicmeta>
+            <keywords>
+                <keyword>KW100</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <topicref href="ditaval/f_product1_consumer.ditaval" format="ditaval"/>
+    <topicref href="m_kw100_consumer_guide.ditamap" format="ditamap"/>
 </map>
