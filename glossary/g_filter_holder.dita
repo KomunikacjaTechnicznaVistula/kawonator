@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="g_filter_holder">
-    <title></title>
+<topic id="g_filter_holder" class="- topic/topic ">
+    <title/>
     <body>
-        <p></p>
+        <glossentry id="g_filter_holder">
+            <glossterm><b> FILTER HOLDER </b></glossterm>
+            <glossdef>
+                <p> An removable element of the brew head which contains the filter for coffee grounds. Kawonator produces filter holders for one cup or two cup servings. </p>
+            </glossdef></glossentry>
     </body>
 </topic>

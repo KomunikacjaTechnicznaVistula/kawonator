@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="g_brew_head">
-    <title></title>
+<topic id="g_brew_head" class="- topic/topic ">
+    <title/>
     <body>
-        <p></p>
+        <glossentry id="g_brew_head">
+            <glossterm><b> BREW HEAD </b></glossterm>
+            <glossdef>
+                <p> A fixed element of an espresso machine which expels pressurized water to allow the brewing of espresso coffee. Brew heads in Kawonator machines are operational only when they have a portafilter securely attached to them. </p>
+            </glossdef></glossentry>
+
     </body>
 </topic>

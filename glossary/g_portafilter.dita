@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="g_portafilter">
-    <title></title>
-    <body>
-        <p></p>
-    </body>
+<topic id="g_portafilter" class="- topic/topic ">
+    <glossentry id="g_portafilter">
+        <glossterm><b> PORTAFILTER</b></glossterm>
+        <glossdef>
+            <p> A removable element of an espresso machine which houses the filter and the ground
+                espresso coffee. When attached to the active brew head of an espresso machine the
+                portafilter drives pressurized water through the coffee grounds and the filter,
+                producing espresso coffee from its outlet (in single-serving configurations) or
+                outlets (in multi-serving configurations). </p>
+        </glossdef></glossentry>
 </topic>

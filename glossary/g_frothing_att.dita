@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="g_frothing_att">
-    <title></title>
+<topic id="g_frothing_att" class="- topic/topic ">
+    <title/>
     <body>
-        <p></p>
+        <glossentry id="g_frothing_att">
+            <glossterm><b> FROTHING ATTACHMENT</b></glossterm>
+            <glossdef>
+                <p> A removable element of the Kawonator steam wand which optimally distributes the pressurized steam expelled by the steam wand. </p>
+            </glossdef></glossentry>
     </body>
 </topic>

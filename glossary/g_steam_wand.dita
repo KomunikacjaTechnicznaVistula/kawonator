@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="g_steam_wand">
-    <title></title>
+<topic id="g_steam_wand" class="- topic/topic ">
+    <title/>
     <body>
-        <p></p>
+        <glossentry id="g_steam_wand">
+            <glossterm><b> STEAM WAND</b></glossterm>
+            <glossdef>
+                <p> A fixed element of the Kawonator espresso machine which conducts pressurized steam to enable milk foaming. </p>
+            </glossdef></glossentry>
     </body>
 </topic>
