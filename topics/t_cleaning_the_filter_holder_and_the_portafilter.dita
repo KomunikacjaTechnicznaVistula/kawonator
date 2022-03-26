@@ -5,8 +5,9 @@
     <shortdesc/>
     <taskbody>
         <context>
-            <p product="product1">The filter holder in the KW100 must be cleaned every 50 servings. </p>
-            <p product="product2">The 1-cup filter holder in the KW200 must be cleaned every 50
+            <p product="product1">The filter holder in the <keyword product="product1" keyref="1.product"
+                >KW100</keyword> must be cleaned every 50 servings. </p>
+            <p product="product2">The 1-cup filter holder in the <keyword product="product2" keyref="2.product">KW200</keyword> must be cleaned every 50
                 servings, while the 2-cup filter holder must be cleaned every 40 servings.</p>
         </context>
         <steps>
@@ -32,9 +33,9 @@
                 <cmd>Wipe the filter holder and re-assemble the <term keyref="g_portafilter"/>. </cmd>
             </step>
             <step>
-                <cmd>Run water through the <keyword product="product1">KW100</keyword><keyword
-                        product="product2">KW200</keyword> with an empty <term
-                        keyref="g_portafilter"/> connected to the brew head (with the <term
+                <cmd>Run water through the <keyword product="product1" keyref="1.product"
+                    >KW100</keyword><keyword product="product2" keyref="2.product">KW200</keyword> with an empty
+                        <term keyref="g_portafilter"/> connected to the brew head (with the <term
                         keyref="g_filter_holder"/>, but without any ground coffee) to rinse out any
                     residual filter-cleaning fluid.</cmd>
             </step>
