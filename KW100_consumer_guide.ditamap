@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title><keyword keyref="product"/>
-        <keyword keyref="audience"/> Guide</title>
+    <title>KW100 consumer guide</title>
+    <ditavalref href="ditavals/f_product1_consumer_pdf.ditaval"/>
     <keydef keys="product">
         <topicmeta>
             <keywords>
@@ -10,13 +10,5 @@
             </keywords>
         </topicmeta>
     </keydef>
-    <keydef keys="audience">
-        <topicmeta>
-            <keywords>
-                <keyword>Consumer</keyword>
-            </keywords>
-        </topicmeta>
-    </keydef>
-    <topicref href="ditaval/f_product1_consumer.ditaval" format="ditaval" navtitle="ditaval"/>
-    <topicref href="m_PDF_core.ditamap" format="ditamap"/>
+    <mapref href="KW_pdf.ditamap"/>
 </map>

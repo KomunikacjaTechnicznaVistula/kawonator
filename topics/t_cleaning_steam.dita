@@ -1,30 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_cleaning_the_steam_wand_and_frothing_attachment">
-    <title>CLEANING THE <term keyref="g_steam_wand"/> AND <term keyref="g_frothing_att"/></title>
-    <shortdesc/>
+<task id="t_operating">
+    <title>Cleaning the <keyword keyref="product"/> steam wand and frothing attachment</title>
+    <shortdesc>The <keyword>Steam Wand </keyword> and <keyword keyref="g_frothing_att"/> should
+        always be cleaned after frothing milk.</shortdesc>
     <taskbody>
-        <context>
-            <p>The <term keyref="g_steam_wand"/> and <term keyref="g_frothing_att"/> should always
-                be cleaned after frothing milk.</p>
-        </context>
-        <steps>
+        <steps id="steps_lg5_tlf_cpb">
             <step>
-                <cmd>Remove the <term keyref="g_frothing_att"/> and rinse in warm tap water.</cmd>
+                <cmd>Remove the <keyword keyref="g_frothing_att"/> and rinse in warm tap
+                    water.</cmd>
             </step>
             <step>
-                <cmd>Use a Kawonator-compatible cleaning tool to clean the two fine steam holes on
-                    either end of the <term keyref="g_frothing_att"/>.</cmd>
+                <cmd>Use a <keyword keyref="company"/>-compatible cleaning tool to clean the two
+                    fine steam holes on either end of the <keyword keyref="g_frothing_att"/>.</cmd>
             </step>
             <step>
-                <cmd>Wipe the <term keyref="g_steam_wand"/> with a damp cloth, then with the <term
-                        keyref="g_steam_wand"/> directed back into the drip tray, briefly set the
-                    Selector Control to the ‘Steam’ setting (no less than 5 seconds).</cmd>
+                <cmd>Wipe the <keyword keyref="g_steam_wand"/> with a damp cloth.</cmd>
             </step>
             <step>
-                <cmd>Set the Selector Control to the ‘Standby’ position. Press the ‘ON/OFF’ button
-                    to ‘OFF’, switch off at the power outlet, unplug the power cord and allow the
-                    machine to cool before starting it again.</cmd>
+                <cmd>With the <keyword keyref="g_steam_wand"/> directed back into the drip tray,
+                    briefly set the <uicontrol>Selector Control</uicontrol> to the
+                        <parmname>Steam</parmname> setting.</cmd>
+                <info>Leave the <uicontrol>Selector Control</uicontrol> in the
+                        <parmname>Steam</parmname> setting for at least 5 seconds.</info>
+            </step>
+            <step>
+                <cmd>Set the <uicontrol>Selector Control</uicontrol> to the
+                        <parmname>Standby</parmname> position.</cmd>
+            </step>
+            <step>
+                <cmd>Press the <uicontrol>ON/OFF button </uicontrol> to <parmname>OFF</parmname>,
+                    switch off at the power outlet, unplug the power cord and allow the machine to
+                    cool before starting it again.</cmd>
             </step>
         </steps>
     </taskbody>

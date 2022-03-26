@@ -5,7 +5,7 @@
     <keydef keys="company">
         <topicmeta>
             <keywords>
-                <keyword>Kawonator</keyword>
+                <keyword>Kawomator</keyword>
             </keywords>
         </topicmeta>
     </keydef>
@@ -23,9 +23,9 @@
             </keywords>
         </topicmeta>
     </keydef>
-
+    
     <topicref href="topics/c_introduction.dita">
-        <ditavalref href="ditaval/f_consumer.ditaval"/>
+        <ditavalref href="ditavals/f_consumer.ditaval"/>
         <topicref href="topics/t_operating.dita" keyscope="1">
             <keydef keys="product">
                 <topicmeta>
@@ -48,16 +48,16 @@
     </topicref>
 
     <topicref href="topics/c_introduction.dita">
-        <ditavalref href="ditaval/f_maintenance.ditaval"/>
+        <ditavalref href="ditavals/f_maintenance.ditaval"/>
         <topicgroup keyscope="1">
-            <ditavalref href="ditaval/f_product1.ditaval"/>
+            <ditavalref href="ditavals/f_product1.ditaval"/>
             <topicref href="topics/t_assembling.dita"/>
             <topicref href="topics/t_cleaning_steam.dita"/>
             <topicref href="topics/t_cleaning_filter.dita"/>
             <topicref href="topics/t_operating.dita"/>
         </topicgroup>
         <topicgroup>
-            <ditavalref href="ditaval/f_product2.ditaval"/>
+            <ditavalref href="ditavals/f_product2.ditaval"/>
             <topicref href="topics/t_assembling.dita" keyscope="2"/>
             <topicref href="topics/t_cleaning_steam.dita" keyscope="2"/>
             <topicref href="topics/t_cleaning_filter.dita" keyscope="2"/>
@@ -65,6 +65,6 @@
         </topicgroup>
     </topicref>
 
-    <topicref href="glossary/m_glossary.ditamap" format="ditamap" toc="no"/>
+    <topicref href="glossary/glossary.ditamap" format="ditamap" toc="no"/>
 
 </map>
