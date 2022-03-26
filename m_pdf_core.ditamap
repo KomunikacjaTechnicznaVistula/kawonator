@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title><keyword keyref="product1"/> Guide</title>
+    <keydef keys="company">
+        <topicmeta>
+            <keywords>
+                <keyword>Kawonator</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="product1">
+        <topicmeta>
+            <keywords>
+                <keyword>KW100</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="product2">
+        <topicmeta>
+            <keywords>
+                <keyword>KW200</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+</map>
