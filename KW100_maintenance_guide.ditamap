@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title><keyword keyref="product"/>
+        <keyword keyref="audience"/> Guide</title>
+    <keydef keys="product">
+        <topicmeta>
+            <keywords>
+                <keyword>KW100</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="audience">
+        <topicmeta>
+            <keywords>
+                <keyword>Maintenance</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <topicref href="ditaval/f_product1_maintenance.ditaval" format="ditaval"/>
+    <topicref href="m_PDF_core.ditamap" format="ditamap"/>
+</map>
