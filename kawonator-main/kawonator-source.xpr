@@ -10,12 +10,12 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>ditavals/f_product1_consumer_pdf.ditaval</String>
+                                    <String>out/pdf-css-html5/KW100_consumer_guide.merged.html</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>PDF2</String>
                                         <String>PDF (PDF (CSS Formatter - HTML5))</String>
+                                        <String>PDF2</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -67,6 +67,29 @@
                                 </field>
                                 <field name="scenarioStorageLocations">
                                     <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>ditavals/f_product1_consumer_pdf.ditaval</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>PDF2</String>
+                                        <String>PDF (PDF (CSS Formatter - HTML5))</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
                                         <Byte>2</Byte>
                                     </list>
                                 </field>
