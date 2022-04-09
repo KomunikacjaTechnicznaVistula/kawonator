@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program Files/Oxygen XML Editor 24/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2024/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/Agaa/Desktop/GitHub%20kawonator/kawonator-main/KW100_consumer_guide.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">KW100 consumer guide</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">KW100 consumer guide</title>
+    
+    
+    <topicref audience="consumer" is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="c_introduction"><resourceid appid="c_introduction" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Consumer
+        guide</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Learn how to <ph audience="consumer" class="- topic/ph ">operate</ph> your <keyword class="- topic/keyword " keyref="company">Kawomator</keyword> espresso machine.</shortdesc></topicmeta></topicref><topicref audience="consumer" is-chapter="true" class="- map/topicref " href="#unique_2" type="task"><topicmeta class="- map/topicmeta " data-topic-id="t_operating"><resourceid appid="t_operating" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Operating the Kawomator
+        KW100</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Follow these instructions to brew delicious coffee with your <keyword class="- topic/keyword " keyref="product">KW100</keyword> espresso machine.</shortdesc></topicmeta></topicref><topicref audience="consumer" is-chapter="true" class="- map/topicref " href="#unique_6" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="r_recipes"><resourceid appid="r_recipes" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Coffees to try</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Try these tasty recipes on your <keyword class="- topic/keyword " keyref="company">Kawomator</keyword> espresso         machine.</shortdesc></topicmeta></topicref><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?><?ditaot gentext?>
+<?ditaot gentext?></opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " audience="consumer" nd:nd-id="c_introduction" oid="c_introduction" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper "><ph audience="consumer" class="- topic/ph ">Consumer</ph>
+        guide</ph></title>
+    <shortdesc class="- topic/shortdesc ">Learn how to <ph audience="consumer" class="- topic/ph ">operate</ph> your <keyword class="- topic/keyword " keyref="company">Kawomator</keyword> espresso machine.</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "><keyword class="- topic/keyword " keyref="company">Kawomator</keyword> produces high-quality espresso machines for true coffee
+            connoisseurs.</p>
+        <section class="- topic/section " id="unique_1_Connect_42_section_gh2_vqf_cpb" nd:nd-id="section_gh2_vqf_cpb" product="product1"><title class="- topic/title "><keyword class="- topic/keyword " keyref="company">Kawomator</keyword>
+                <keyword class="- topic/keyword " keyref="product1">KW100</keyword></title><p class="- topic/p ">The <keyword class="- topic/keyword " keyref="product1">KW100</keyword> is a
+                superior single-cup espresso machine model.</p><image class="- topic/image " href="file:/C:/Users/Agaa/Desktop/GitHub%20kawonator/kawonator-main/images/KW100.jpg" id="unique_1_Connect_42_image_uhw_zrf_cpb" nd:nd-id="image_uhw_zrf_cpb" placement="inline" width="400px"/></section>
+        
+        
+    </conbody>
+</concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_2" topicrefclass="- map/topicref " audience="consumer" nd:nd-id="t_operating" oid="t_operating" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Operating the <keyword class="- topic/keyword " keyref="company">Kawomator</keyword>
+        <keyword class="- topic/keyword " keyref="product">KW100</keyword></ph></title>
+    <shortdesc class="- topic/shortdesc ">Follow these instructions to brew delicious coffee with your <keyword class="- topic/keyword " keyref="product">KW100</keyword> espresso machine.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Fill the water tank</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_2_Connect_42_substeps_uhf_m3f_cpb" nd:nd-id="substeps_uhf_m3f_cpb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Ensure the <uicontrol class="+ topic/ph ui-d/uicontrol ">Power On/Off button</uicontrol> is
+                                <parmname class="+ topic/keyword pr-d/parmname ">Off</parmname> and the<uicontrol class="+ topic/ph ui-d/uicontrol "> Selector
+                                Control</uicontrol> is set to the <parmname class="+ topic/keyword pr-d/parmname ">Standby</parmname>
+                            position.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Turn the machine off at the power outlet and unplug the power
+                            cord.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Remove the <keyword class="- topic/keyword " href="#unique_3" keyref="g_portafilter" type="glossentry"><?ditaot gentext?>portafilter</keyword> if locked into the
+                                <keyword class="- topic/keyword " href="#unique_4" keyref="g_brew_head" type="glossentry"><?ditaot gentext?>brew head</keyword> and move the <keyword class="- topic/keyword ">Steam Wand
+                            </keyword> to the side of the machine.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Remove the Water Tank by pulling with the handle insert in the front of
+                            the espresso machine.</cmd>
+                        <info class="- topic/itemgroup task/info ">When the Water Tank is removed, a black tube slides and extends out
+                            from the Water Tank storage area. Do not touch or try to remove this
+                            tube, it will automatically slide back into position when the Water Tank
+                            is reinserted.</info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Fill the Water Tank with cold water to the maximum mark on the Water
+                            Window and slide the Water Tank carefully back into position in the
+                            machine.</cmd>
+                    </substep>
+                </substeps>
+                <info class="- topic/itemgroup task/info ">
+                    <note class="- topic/note ">Check the water level before use and replace the water daily. The water
+                        tank should be refilled with fresh cold water before each use.</note>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Prepare the coffee grounds</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_2_Connect_42_substeps_il4_whf_cpb" nd:nd-id="substeps_il4_whf_cpb">
+                    <substep class="- topic/li task/substep " product="product1">
+                        
+                        <cmd class="- topic/ph task/cmd ">Place the <keyword class="- topic/keyword " href="#unique_5" keyref="g_filter_holder" type="glossentry"><?ditaot gentext?>filter holder</keyword> into the <keyword class="- topic/keyword " href="#unique_3" keyref="g_portafilter" type="glossentry"><?ditaot gentext?>portafilter</keyword>.</cmd>
+                        <info class="- topic/itemgroup task/info ">Use 1 level measure of ground espresso for 1 cup of coffee.</info>
+                    </substep>
+                    
+                    <substep class="- topic/li task/substep ">
+                        
+                        <cmd class="- topic/ph task/cmd ">Use 1 level measure of ground espresso coffee for the 1 cup filter and
+                            2 level measures for the 2 cup filter.</cmd>
+                    </substep>
+                </substeps>
+                <info class="- topic/itemgroup task/info ">It is important to use the correct amount of coffee for each <keyword class="- topic/keyword " href="#unique_5" keyref="g_filter_holder" type="glossentry"><?ditaot gentext?>filter holder</keyword> as the filter perforations have been constructed
+                    to utilize the pressure in the machine to extract optimal flavor with each
+                    brewing.</info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Tamp the coffee</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_2_Connect_42_substeps_sjj_shf_cpb" nd:nd-id="substeps_sjj_shf_cpb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Distribute the coffee evenly in the <keyword class="- topic/keyword " href="#unique_3" keyref="g_portafilter" type="glossentry"><?ditaot gentext?>portafilter</keyword>
+                            and press down lightly with the tamping end of the measuring
+                            spoon.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Clean any excess coffee from the rim of the <keyword class="- topic/keyword " href="#unique_3" keyref="g_portafilter" type="glossentry"><?ditaot gentext?>portafilter</keyword> to ensure a proper fit into the
+                            machine.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Attach the <keyword class="- topic/keyword " href="#unique_3" keyref="g_portafilter" type="glossentry"><?ditaot gentext?>portafilter</keyword></cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_2_Connect_42_substeps_kzr_phf_cpb" nd:nd-id="substeps_kzr_phf_cpb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Place the filled <keyword class="- topic/keyword " href="#unique_3" keyref="g_portafilter" type="glossentry"><?ditaot gentext?>portafilter</keyword> underneath the
+                                <keyword class="- topic/keyword " href="#unique_4" keyref="g_brew_head" type="glossentry"><?ditaot gentext?>brew head</keyword> so that the handle is aligned with
+                            the arrow symbol printed in the front of the <keyword class="- topic/keyword " href="#unique_4" keyref="g_brew_head" type="glossentry"><?ditaot gentext?>brew head</keyword>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Insert the <keyword class="- topic/keyword " href="#unique_3" keyref="g_portafilter" type="glossentry"><?ditaot gentext?>portafilter</keyword> up into the <keyword class="- topic/keyword " href="#unique_4" keyref="g_brew_head" type="glossentry"><?ditaot gentext?>brew head</keyword> and rotate the handle to the right until
+                            resistance is felt. This will be at an approximate 90° angle to the
+                            machine.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Brew the coffee</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_2_Connect_42_substeps_hcs_3hf_cpb" nd:nd-id="substeps_hcs_3hf_cpb">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Wait until that the red <uicontrol class="+ topic/ph ui-d/uicontrol ">Heating</uicontrol> light is
+                            off.</cmd>
+                        <info class="- topic/itemgroup task/info ">This indicates that the machine has reached the correct temperature
+                            for brewing.</info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Set the <uicontrol class="+ topic/ph ui-d/uicontrol ">Selector Control</uicontrol> to the
+                                <parmname class="+ topic/keyword pr-d/parmname ">Espresso</parmname> position.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Ensure the Drip Tray is securely in place.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " product="product1">
+                        
+                        <cmd class="- topic/ph task/cmd ">Place one pre-warmed cup beneath the outlet of the <keyword class="- topic/keyword " href="#unique_3" keyref="g_portafilter" type="glossentry"><?ditaot gentext?>portafilter</keyword>.</cmd>
+                    </substep>
+                    
+                </substeps>
+                <stepresult class="- topic/itemgroup task/stepresult ">After a few seconds, aromatic coffee will begin to brew. A pumping noise
+                    will be heard in this operation.</stepresult>
+            </step>
+        </steps>
+        <postreq class="- topic/section task/postreq " id="unique_2_Connect_42_postreq_qhr_zgf_cpb" nd:nd-id="postreq_qhr_zgf_cpb">
+            <p class="- topic/p ">When sufficient coffee has flowed into the <ph class="- topic/ph " product="product1">cup</ph>, set the <uicontrol class="+ topic/ph ui-d/uicontrol ">Selector Control </uicontrol>to
+                the <parmname class="+ topic/keyword pr-d/parmname ">Standby</parmname> position. This will stop the flow of coffee.</p>
+            <p class="- topic/p ">Unplug the power cord and allow the machine to cool.</p>
+        </postreq>
+    </taskbody>
+</task><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_6" topicrefclass="- map/topicref " audience="consumer" nd:nd-id="r_recipes" oid="r_recipes" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Coffees to try</ph></title>
+    <shortdesc class="- topic/shortdesc ">Try these tasty recipes on your <keyword class="- topic/keyword " keyref="company">Kawomator</keyword> espresso
+        machine.</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <dl class="- topic/dl ">
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">ESPRESSO</dt>
+                    <dd class="- topic/dd ">Intense and aromatic, an espresso or short black as it’s also known uses
+                        about 7g of ground coffee. It is served in a small cup or glass to a level
+                        of approximately 30ml.</dd>
+                </dlentry>
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">LONG BLACK</dt>
+                    <dd class="- topic/dd ">A long black is generally served as a standard espresso with hot water added
+                        to taste.</dd>
+                </dlentry>
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">FLAT WHITE</dt>
+                    <dd class="- topic/dd ">A single dose of espresso in a cup topped with steamed milk, 1⁄3 coffee and
+                        1⁄3 milk.</dd>
+                </dlentry>
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">CLASSIC CAFE LATTE</dt>
+                    <dd class="- topic/dd ">Traditionally the morning coffee of Italy and France, taken with pain au
+                        chocolate or sweet biscotti. This blend of 1⁄3 espresso to 2⁄3 milk is made
+                        with a single shot of espresso. Top with steamed milk, poured down the
+                        inside rim of the glass to give a creamy consistency and perfect layer of
+                        froth.</dd>
+                </dlentry>
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">CAPPUCCINO</dt>
+                    <dd class="- topic/dd ">Served very light and lukewarm with 1⁄3 espresso to 1⁄3 steamed milk and a
+                        generous final third of creamy froth. For added finesse, hold a piece of
+                        card over one half of the cappuccino before dusting with chocolate.</dd>
+                </dlentry>
+                <dlentry class="- topic/dlentry ">
+                    <dt class="- topic/dt ">MACCHIATO</dt>
+                    <dd class="- topic/dd ">A shot of espresso served short in a 70ml demitasse and stained with a dash
+                        of finely frothed milk.</dd>
+                </dlentry>
+            </dl>
+        </example>
+    </refbody>
+</reference><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_7" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="r_glossary" oid="r_glossary" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Glossary</ph></title>
+    <shortdesc class="- topic/shortdesc ">Learn more about specialised components of your <keyword class="- topic/keyword " keyref="company">Kawomator</keyword> espresso
+        machine.</shortdesc>
+<glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_4" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_brew_head" oid="g_brew_head" specializations="@props/deliveryTarget">
+    <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">brew head</ph></glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">A fixed element of an espresso machine which expels pressurized water to allow the
+        brewing of espresso coffee. Brew heads in Kawonator machines are operational only when they
+        have a portafilter securely attached to them.</glossdef>
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_5" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_filter_holder" oid="g_filter_holder" specializations="@props/deliveryTarget">
+    <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">filter holder</ph></glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">An removable element of the brew head which contains the filter for coffee grounds.
+        Kawonator produces filter holders for one cup or two cup servings.</glossdef>
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_8" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_steam_wand" oid="g_steam_wand" specializations="@props/deliveryTarget">
+    <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">frothing attachment</ph></glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">A removable element of the <keyword class="- topic/keyword " keyref="company">Kawomator</keyword> steam wand which optimally distributes the
+        pressurized steam expelled by the steam wand.</glossdef>
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_3" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_portafilter" oid="g_portafilter" specializations="@props/deliveryTarget">
+    <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">portafilter</ph></glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">A removable element of an espresso machine which houses the filter and the ground
+        espresso coffee. When attached to the active brew head of an espresso machine the
+        portafilter drives pressurized water through the coffee grounds and the filter, producing
+        espresso coffee from its outlet (in single-serving configurations) or outlets (in
+        multi-serving configurations).</glossdef>
+</glossentry><glossentry class="- topic/topic concept/concept glossentry/glossentry " id="unique_9" topicrefclass="- map/topicref " topicreftoc="no" nd:nd-id="g_steam_wand" oid="g_steam_wand" specializations="@props/deliveryTarget">
+    <glossterm class="- topic/title concept/title glossentry/glossterm "><ph class="- topic/ph topic/title-wrapper ">steam wand</ph></glossterm>
+    <glossdef class="- topic/abstract concept/abstract glossentry/glossdef ">A fixed element of the Kawonator espresso machine which conducts pressurized steam to
+        enable milk foaming.</glossdef>
+</glossentry></reference></map>
